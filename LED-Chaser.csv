@@ -1,0 +1,13 @@
+Reference,Qty,Value,Link
+C1,1,1000uF,https://www.tme.eu/pl/details/eeeft1c102ap/kondensatory-elektrolityczne-smd/panasonic/
+"C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C27,C28,C29",28,100nF,https://www.tme.eu/pl/details/cl10b104ka8nnnc/kondensatory-mlcc-smd/samsung/
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24",24,WS2812B,https://www.tme.eu/pl/details/ws2812b-v5/diody-led-smd-kolorowe/worldsemi/
+J3,1,USB_C_Receptacle_PowerOnly_6P,https://www.tme.eu/pl/details/usb4125-gf-a-0190/zlacza-usb-i-ieee1394/gct/
+MK1,1,AOM-5024L-HD-R,https://www.tme.eu/pl/details/aom-5024l-hd-r/mikrofony-i-sluchawki/pui-audio/
+R1,1,10K,https://www.tme.eu/pl/details/crcw060310k0fkea/rezystory-smd/vishay/
+R2,1,2.2K,https://www.tme.eu/pl/details/crcw06032k20fkea/rezystory-smd/vishay/
+"R12,R13",2,5.1K,https://www.tme.eu/pl/details/rca06035k10fkea/rezystory-smd/vishay/
+R14,1,330R,https://www.tme.eu/pl/details/rca0603330rfkea/rezystory-smd/vishay/
+RV1,1,R_Potentiometer,https://www.tme.eu/pl/details/rk09k1110a0j/potencjometry-jednoobrotowe-weglowe/alps/
+U1,1,ATtiny85-20S,https://www.tme.eu/pl/details/attiny85-20sf/rodzina-avr-8-bit/microchip-technology/
+U2,1,MCP6002-xSN,https://www.tme.eu/pl/details/mcp6002-e_sn/wzmacniacze-operacyjne-smd/microchip-technology/
